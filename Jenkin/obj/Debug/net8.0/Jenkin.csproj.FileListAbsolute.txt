@@ -1,0 +1,14 @@
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\bin\Debug\net8.0\Jenkin.exe
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\bin\Debug\net8.0\Jenkin.deps.json
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\bin\Debug\net8.0\Jenkin.runtimeconfig.json
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\bin\Debug\net8.0\Jenkin.dll
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\bin\Debug\net8.0\Jenkin.pdb
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.AssemblyInfoInputs.cache
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.AssemblyInfo.cs
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.csproj.CoreCompileInputs.cache
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.dll
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\refint\Jenkin.dll
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.pdb
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\Jenkin.genruntimeconfig.cache
+C:\Users\Nghia\Desktop\Jenkin\Jenkin\Jenkin\obj\Debug\net8.0\ref\Jenkin.dll
